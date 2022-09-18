@@ -10,13 +10,12 @@ import firebase from 'firebase';
 // };
 
 const config = {
-    apiKey: "AIzaSyBCXUnoodowk5WHqafQh2wvgrOqQK3jSHw",
-    authDomain: "travelguide-coet.firebaseapp.com",
-    projectId: "travelguide-coet",
-    storageBucket: "travelguide-coet.appspot.com",
-    messagingSenderId: "545885777286",
-    appId: "1:545885777286:web:cf4272b6f181065d97d007",
-    measurementId: "G-JQFLHL78QV"
+    apiKey: "AIzaSyAW3SBgyKl4vYxkKFjECtMXkCoQ1uejVBM",
+    authDomain: "travelguide-coet-ac711.firebaseapp.com",
+    projectId: "travelguide-coet-ac711",
+    storageBucket: "travelguide-coet-ac711.appspot.com",
+    messagingSenderId: "1030347651290",
+    appId: "1:1030347651290:web:c99517c2c407b249f94de3"
 };
 
 
